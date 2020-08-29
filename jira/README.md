@@ -1,3 +1,3 @@
 # Jira diagrams
 
-- [Jira flow](./workflow)
+- [Jira workflow](./workflow)
